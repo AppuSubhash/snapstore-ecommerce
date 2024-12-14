@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/proshop-v2-main/frontend/public/index.html"
+  status =200
